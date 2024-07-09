@@ -1,1 +1,1 @@
-# Impact-of-covid-in-Airline-scetor
+# Covid impact on Airline Sector
