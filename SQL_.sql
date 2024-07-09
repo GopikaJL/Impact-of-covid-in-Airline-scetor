@@ -1,5 +1,4 @@
-#create database AITFinalProject;
-#use AITFinalProject;
+
 
 create table air_passengers(ID int,
 							Sum_PASSENGERS int,
